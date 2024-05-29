@@ -1,4 +1,4 @@
 # pratik-demo
 this is my first git repo
 <br>
-pratik sangve
+pratik sangve(java developer)
